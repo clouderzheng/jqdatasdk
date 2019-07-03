@@ -1,6 +1,7 @@
 import jqdatasdk
 import login
 import xlwt
+import stock_constants
 login.login()
 
 #获取所有股票信息
@@ -42,4 +43,4 @@ for row in range(0,len(code_list)):
     sheet.write(row + 1,2,short_name_list[row])
     sheet.write(row + 1,3,start_date_list[row])
     sheet.write(row + 1,4,end_date_list[row])
-workbook.save("jq_store.xls")
+workbook.save(stock_constants.STOCK_PATH+"jq_store.xls")
