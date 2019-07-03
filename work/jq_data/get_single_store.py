@@ -16,3 +16,7 @@ df = jqdatasdk.get_index_weights(index_id="000001.XSHG", date="2019-06-28")
 print(df)
 weight = list(df.weight)
 print(weight)
+
+
+data = jqdatasdk.get_price("600218.XSHG", start_date='2015-01-01', end_date='2015-12-31', frequency='daily', fields=None, skip_paused=False, fq='pre')
+print(data)
