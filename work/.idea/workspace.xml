@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="412f63c8-67cd-44ec-94fc-e777961cad79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jq_data/capital_flow.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jq_data/get_daily_stock_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jq_data/get_stock_money_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jq_data/get_single_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/jq_data/get_single_store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jq_data/jq_store.xls" beforeDir="false" afterPath="$PROJECT_DIR$/jq_data/jq_store.xls" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -278,7 +280,7 @@
       <workItem from="1561813283218" duration="6585000" />
       <workItem from="1561985471875" duration="14000" />
       <workItem from="1562142519060" duration="5421000" />
-      <workItem from="1562207472262" duration="717000" />
+      <workItem from="1562207472262" duration="960000" />
     </task>
     <task id="LOCAL-00001" summary="bill board">
       <created>1562146341251</created>
@@ -291,7 +293,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34629000" />
+    <option name="totallyTimeSpent" value="34872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="280" y="23" width="1400" height="907" extended-state="0" />
