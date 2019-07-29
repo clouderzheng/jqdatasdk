@@ -1,1 +1,1 @@
-STOCK_PATH = "resources/"
+STOCK_PATH = "../resources/"
