@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="412f63c8-67cd-44ec-94fc-e777961cad79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jq_data/capital_flow.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jq_data/get_daily_stock_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jq_data/get_stock_money_flow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq_data/get_single_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/jq_data/get_single_store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jq_data/jq_store.xls" beforeDir="false" afterPath="$PROJECT_DIR$/jq_data/jq_store.xls" afterDir="false" />
+    <list default="true" id="412f63c8-67cd-44ec-94fc-e777961cad79" name="Default Changelist" comment="http 工具类">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +12,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jq_data/get_stock_info.py">
+        <entry file="file://$PROJECT_DIR$/matplotlib_train/class_relationship_night.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="303">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,20 +70,30 @@
         <option value="$PROJECT_DIR$/read_store.py" />
         <option value="$PROJECT_DIR$/store/store_comment.py" />
         <option value="$PROJECT_DIR$/pandas_night/panda_test.py" />
-        <option value="$PROJECT_DIR$/jq_data/login.py" />
         <option value="$PROJECT_DIR$/jq_data/get_single_store.py" />
-        <option value="$PROJECT_DIR$/jq_data/get_bill_board.py" />
         <option value="$PROJECT_DIR$/jq_data/resources/stock_constants.py" />
         <option value="$PROJECT_DIR$/jq_data/get_all_store.py" />
         <option value="$PROJECT_DIR$/jq_data/stock_constants.py" />
         <option value="$PROJECT_DIR$/jq_data/excel_util.py" />
+        <option value="$PROJECT_DIR$/sina_stock/blog_stock_commnet.py" />
+        <option value="$PROJECT_DIR$/sina_stock/http_request_util.py" />
+        <option value="$PROJECT_DIR$/jq_data/get_bill_board.py" />
         <option value="$PROJECT_DIR$/jq_data/get_stock_info.py" />
+        <option value="$PROJECT_DIR$/jq_data/get_stock_index_info.py" />
+        <option value="$PROJECT_DIR$/east_money/my_follow_person.py" />
+        <option value="$PROJECT_DIR$/jq_data/login.py" />
+        <option value="$PROJECT_DIR$/matplotlib_train/class_relationship_tree.py" />
+        <option value="$PROJECT_DIR$/matplotlib_train/matplot_broken_line.py" />
+        <option value="$PROJECT_DIR$/matplotlib_train/matplot_point_point.py" />
+        <option value="$PROJECT_DIR$/matplotlib_train/class_relationship_night_arrow.py" />
+        <option value="$PROJECT_DIR$/matplotlib_train/matplot_arrow.py" />
+        <option value="$PROJECT_DIR$/matplotlib_train/class_relationship_night.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="280" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="316" />
+    <option name="y" value="54" />
     <option name="width" value="1400" />
     <option name="height" value="907" />
   </component>
@@ -88,18 +113,7 @@
             <path>
               <item name="work" type="b2602c69:ProjectViewProjectNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="jq_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="jq_data" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="matplotlib_train" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="work" type="b2602c69:ProjectViewProjectNode" />
@@ -117,7 +131,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -138,8 +152,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_stock_info">
-    <configuration name="excel_util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.class_relationship_night">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,12 +161,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jq_data" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_relationship_night" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_train" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jq_data/excel_util.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_train/class_relationship_night.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_all_store" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class_relationship_night_arrow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,12 +205,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jq_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_train" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jq_data/get_all_store.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_train/class_relationship_night_arrow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matplot_arrow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_train/matplot_arrow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_bill_board" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="matplot_broken_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,12 +249,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jq_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_train" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jq_data/get_bill_board.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_train/matplot_broken_line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_single_store" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="matplot_point_point" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,12 +271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jq_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_train" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jq_data/get_single_store.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_train/matplot_point_point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,35 +285,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_stock_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jq_data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jq_data/get_stock_info.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.matplot_broken_line" />
+      <item itemvalue="Python.matplot_point_point" />
+      <item itemvalue="Python.class_relationship_night" />
+      <item itemvalue="Python.matplot_arrow" />
+      <item itemvalue="Python.class_relationship_night_arrow" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.get_stock_info" />
-        <item itemvalue="Python.get_all_store" />
-        <item itemvalue="Python.get_bill_board" />
-        <item itemvalue="Python.excel_util" />
-        <item itemvalue="Python.get_single_store" />
+        <item itemvalue="Python.class_relationship_night" />
+        <item itemvalue="Python.matplot_arrow" />
+        <item itemvalue="Python.class_relationship_night_arrow" />
+        <item itemvalue="Python.matplot_point_point" />
+        <item itemvalue="Python.matplot_broken_line" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +323,21 @@
       <workItem from="1561813283218" duration="6585000" />
       <workItem from="1561985471875" duration="14000" />
       <workItem from="1562142519060" duration="5421000" />
-      <workItem from="1562207472262" duration="960000" />
+      <workItem from="1562207472262" duration="8558000" />
+      <workItem from="1562811593862" duration="1667000" />
+      <workItem from="1562902473426" duration="607000" />
+      <workItem from="1563328094734" duration="13349000" />
+      <workItem from="1563350436922" duration="25000" />
+      <workItem from="1563350475688" duration="123000" />
+      <workItem from="1563350610758" duration="103000" />
+      <workItem from="1563350725601" duration="87000" />
+      <workItem from="1563350825923" duration="129000" />
+      <workItem from="1563350966203" duration="1263000" />
+      <workItem from="1563352413727" duration="4730000" />
+      <workItem from="1563414858670" duration="12882000" />
+      <workItem from="1563501343932" duration="596000" />
+      <workItem from="1563790482964" duration="673000" />
+      <workItem from="1564365504605" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="bill board">
       <created>1562146341251</created>
@@ -289,70 +346,70 @@
       <option name="project" value="LOCAL" />
       <updated>1562146341252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="http 工具类">
+      <created>1562242395794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562242395795</updated>
+    </task>
+    <task id="LOCAL-00003" summary="matplot train">
+      <created>1563357509821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563357509821</updated>
+    </task>
+    <task id="LOCAL-00004" summary="类关系">
+      <created>1563790539708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563790539708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34872000" />
+    <option name="totallyTimeSpent" value="79326000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="23" width="1400" height="907" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29179105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.244373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32858992" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39974126" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16426194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3218646" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32963374" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.36071032" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.2982327" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49582636" visible="true" weight="0.14201501" />
+      <window_info anchor="right" id="Database" order="4" weight="0.329582" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" sideWeight="0.50417364" side_tool="true" weight="0.29796356" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2790869" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32883435" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.2982327" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bill board" />
-    <option name="LAST_COMMIT_MESSAGE" value="bill board" />
+    <MESSAGE value="http 工具类" />
+    <MESSAGE value="matplot train" />
+    <MESSAGE value="类关系" />
+    <option name="LAST_COMMIT_MESSAGE" value="类关系" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -366,23 +423,52 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/work$class_relationship_tree.coverage" NAME="class_relationship_tree Coverage Results" MODIFIED="1563355127335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_train" />
     <SUITE FILE_PATH="coverage/work$panda_test.coverage" NAME="panda_test Coverage Results" MODIFIED="1561813852977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_night" />
+    <SUITE FILE_PATH="coverage/work$class_relationship_night.coverage" NAME="class_relationship_night Coverage Results" MODIFIED="1563436671965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_train" />
     <SUITE FILE_PATH="coverage/work$animate.coverage" NAME="animate Coverage Results" MODIFIED="1560776109566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/work$excel_util.coverage" NAME="excel_util Coverage Results" MODIFIED="1562146166906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
     <SUITE FILE_PATH="coverage/work$get_single_store.coverage" NAME="get_single_store Coverage Results" MODIFIED="1562142702425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$class_relationship_night_arrow.coverage" NAME="class_relationship_night_arrow Coverage Results" MODIFIED="1563432749466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_train" />
     <SUITE FILE_PATH="coverage/work$store.coverage" NAME="store Coverage Results" MODIFIED="1561392666172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/work$tt.coverage" NAME="tt Coverage Results" MODIFIED="1560775448545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work$blog_stock_commnet.coverage" NAME="blog_stock_commnet Coverage Results" MODIFIED="1562238481905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sina_stock" />
     <SUITE FILE_PATH="coverage/work$all_store.coverage" NAME="all_store Coverage Results" MODIFIED="1561473441046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/work$get_all_store.coverage" NAME="get_all_store Coverage Results" MODIFIED="1562147220977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$matplot_point_point.coverage" NAME="matplot_point_point Coverage Results" MODIFIED="1563430879907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_train" />
     <SUITE FILE_PATH="coverage/work$store_comment.coverage" NAME="store_comment Coverage Results" MODIFIED="1561477576342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store" />
+    <SUITE FILE_PATH="coverage/work$get_stock_index_info.coverage" NAME="get_stock_index_info Coverage Results" MODIFIED="1562244719507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
     <SUITE FILE_PATH="coverage/work$test.coverage" NAME="test Coverage Results" MODIFIED="1560691612341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/work$get_bill_board.coverage" NAME="get_bill_board Coverage Results" MODIFIED="1562146713553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
-    <SUITE FILE_PATH="coverage/work$login.coverage" NAME="login Coverage Results" MODIFIED="1561821294455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$my_follow_person.coverage" NAME="my_follow_person Coverage Results" MODIFIED="1562812530866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/east_money" />
+    <SUITE FILE_PATH="coverage/work$get_bill_board.coverage" NAME="get_bill_board Coverage Results" MODIFIED="1562242645526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$login.coverage" NAME="login Coverage Results" MODIFIED="1563333676280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$matplot_arrow.coverage" NAME="matplot_arrow Coverage Results" MODIFIED="1563434122634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_train" />
     <SUITE FILE_PATH="coverage/work$read_store.coverage" NAME="read_store Coverage Results" MODIFIED="1561476534489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/work$get_stock_info.coverage" NAME="get_stock_info Coverage Results" MODIFIED="1562147289259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$get_stock_info.coverage" NAME="get_stock_info Coverage Results" MODIFIED="1562243883863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jq_data" />
+    <SUITE FILE_PATH="coverage/work$matplot_broken_line.coverage" NAME="matplot_broken_line Coverage Results" MODIFIED="1563417299913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_train" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>data[&quot;shortName&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nextClassObject[&quot;yaxis&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plotTree.yOff</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>plotTree.totalW</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>len(header)</expression-string>
         <language-id>Python</language-id>
@@ -452,13 +538,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/python3/lib/python3.7/site-packages/xlwt/Workbook.py" />
-    <entry file="file://$PROJECT_DIR$/jq_data/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/store/store.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -503,26 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jq_data/get_bill_board.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jq_data/excel_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jq_data/stock_constants.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -536,10 +595,189 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sina_stock/http_request_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../venv/Lib/site-packages/jqdatasdk/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="112" column="50" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jq_data/get_bill_board.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jq_data/excel_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jq_data/get_stock_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="280">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jq_data/get_stock_index_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/east_money/my_follow_person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1251867424/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="3724" column="8" selection-start-line="3724" selection-start-column="8" selection-end-line="3724" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sina_stock/blog_stock_commnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jq_data/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../venv/Lib/site-packages/matplotlib/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="2404" column="4" selection-start-line="2404" selection-start-column="4" selection-end-line="2404" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../venv/Lib/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../venv/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="1822" column="8" selection-start-line="1822" selection-start-column="8" selection-end-line="1822" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/other.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/work.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="2959" column="3" selection-start-line="2959" selection-start-column="3" selection-end-line="2959" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_train/class_relationship_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_train/matplot_broken_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_train/matplot_point_point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="89" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_train/matplot_arrow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../venv/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="4971" column="44" lean-forward="true" selection-start-line="4971" selection-start-column="44" selection-end-line="4971" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_train/class_relationship_night_arrow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_train/class_relationship_night.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
