@@ -1,25 +1,27 @@
 import login
 import jqdatasdk as jq
-import excel_util
+import Time_Util
 login.login()
 
 
 # 300146.XSHE
 
-def get_stock_daily_history(security , start_date, end_date, frequency):
+def get_stock_daily_history(security , start_date , end_date = None ,count = 0):
 
     """获取指定股票历史数据"""
-    return jq.get_price(security, start_date=start_date, end_date=end_date, frequency=frequency,fq="pre")
+    if(count > 0):
+        """间隔时间大于0 使用间隔 否则默认使用截止日期"""
+        return jq.get_price(security, start_date=start_date,  frequency="daily",fq="pre",count=count)
+    else:
+        return jq.get_price(security, start_date=start_date, end_date=end_date, frequency="daily",fq="pre")
 
 security = "300146.XSHE"
 
-start_date = "2010-12-01"
-end_date = "2011-01-31"
-frequency = "daily"
+current_date = Time_Util.get_before_date_time(1)
+last_date = Time_Util.get_before_date_time(21)
 
-stock_list = get_stock_daily_history(security , start_date, end_date, frequency)
+stock_price_info = get_stock_daily_history(security , last_date , count=20)
+print(stock_price_info)
+average_20_day = stock_price_info['close'].mean()
+print(average_20_day)
 
-print(stock_list)
-print(stock_list.index[0])
-
-excel_util.outprint_excel(stock_list.columns,stock_list,"300146-history")
