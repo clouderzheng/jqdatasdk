@@ -25,3 +25,9 @@ def get_share_holder_pledge(stock_list,pub_date ,limit = 10):
 
 data = get_share_holder_pledge(stock_name,"2017-01-01")
 excel_util.outprint_excel(data.columns,data,"stock_pledge_"+stock_name)
+
+query = jqdatasdk.query(finance.STK_XR_XD).filter(finance.STK_XR_XD.report_date>='2019-06-01').limit(10)
+df = finance.run_query(query)
+
+print(df.company_name,df.code,df.report_date,df.bonus_type,df.board_plan_pub_date,df.board_plan_bonusnote)
+
